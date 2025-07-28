@@ -10,4 +10,3 @@ A simple C++ project to simulate logic gates (AND, OR, XOR, NAND, NOR) and gener
 - Compile using any C++ compiler
 - Run the executable and follow prompts
 
-## Example
